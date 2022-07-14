@@ -1,0 +1,2 @@
+# state_management_redux
+state_management_redux Flutter Count sample
